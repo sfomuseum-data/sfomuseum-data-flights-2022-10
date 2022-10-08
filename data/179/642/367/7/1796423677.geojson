@@ -2,10 +2,12 @@
   "id": 1796423677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-07",
+    "date:cessation_upper": "2022-10-07",
     "date:inception_lower": "2022-10-07",
     "date:inception_upper": "2022-10-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-07",
+    "edtf:cessation": "2022-10-07T04:54:02-07:00",
+    "edtf:inception": "2022-10-07T08:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "KL",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "KLM",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.611565,
     "lbl:longitude": -122.389912,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284613,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221007-A-AFR-8402",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "PHBHI",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "36547406"
+    },
     "wof:country": "US",
     "wof:created": 1665245407,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1796423677,
     "wof:involves": [
+      1159293215,
       102527513,
       102542801,
       1159284613,
       1763588429,
       1159283627
     ],
-    "wof:lastmodified": 1665245407,
+    "wof:lastmodified": 1665245510,
     "wof:name": "KL9866 (AMS-SFO)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

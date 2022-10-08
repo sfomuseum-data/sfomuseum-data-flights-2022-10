@@ -2,10 +2,12 @@
   "id": 1796422771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-07",
+    "date:cessation_upper": "2022-10-07",
     "date:inception_lower": "2022-10-07",
     "date:inception_upper": "2022-10-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-07",
+    "edtf:cessation": "2022-10-07T23:53:11Z",
+    "edtf:inception": "2022-10-07T22:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-10-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.868524,
     "geom:longitude": -122.79198650000001,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533927,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N294AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "36522425"
+    },
     "wof:country": "US",
     "wof:created": 1665245181,
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1796422771,
     "wof:involves": [
-      102527513,
       102533927,
       1159283813,
-      1763588145
+      1763588145,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1665245181,
+    "wof:lastmodified": 1665245503,
     "wof:name": "AS9681 (EUG-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
