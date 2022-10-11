@@ -1,0 +1,69 @@
+{
+  "id": 1796433313,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-10-10",
+    "date:inception_upper": "2022-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "KE",
+    "flysfo:date": "2022-10-10",
+    "flysfo:estimated_timestamp": 1665422040,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "KE9033",
+    "flysfo:gate": "",
+    "flysfo:journey": "GMP-SFO",
+    "flysfo:scheduled_timestamp": 1665421860,
+    "flysfo:timestamp": 1665422040,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.563058,126.800769,37.617990",
+    "geom:latitude": 37.590524,
+    "geom:longitude": 2.214913000000003,
+    "iata:airline": "KE",
+    "icao:airline": "KAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284625,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102556445,
+    "sfomuseum:flight_id": "20221010-A-KAL-9033",
+    "sfomuseum:flight_number": [
+      "KAL9033",
+      "KE9033"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1665504598,
+    "wof:geomhash": "3ccef5323f8b759efee07225c392c83b",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796433313
+      }
+    ],
+    "wof:id": 1796433313,
+    "wof:involves": [
+      102527513,
+      102556445,
+      1159284625,
+      -1
+    ],
+    "wof:lastmodified": 1665504598,
+    "wof:name": "KE9033 (GMP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.563058,
+    126.800769,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[126.800769,37.563058],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
