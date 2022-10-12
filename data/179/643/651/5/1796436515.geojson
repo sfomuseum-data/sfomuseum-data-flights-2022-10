@@ -2,10 +2,12 @@
   "id": 1796436515,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-11",
+    "date:cessation_upper": "2022-10-11",
     "date:inception_lower": "2022-10-11",
     "date:inception_upper": "2022-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-11",
+    "edtf:cessation": "2022-10-11T19:20:42Z",
+    "edtf:inception": "2022-10-11T08:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:date": "2022-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.9663905,
     "geom:longitude": -58.794018,
     "iata:airline": "KL",
+    "icao:aircraft": "B789",
     "icao:airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284613,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102542801,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "PHBHN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "36890998"
+    },
     "wof:country": "US",
     "wof:created": 1665591029,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1796436515,
     "wof:involves": [
+      1159293215,
       102527513,
       102542801,
-      1159284613,
-      -1
+      1159284613
     ],
-    "wof:lastmodified": 1665591029,
+    "wof:lastmodified": 1665591141,
     "wof:name": "KL109 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
