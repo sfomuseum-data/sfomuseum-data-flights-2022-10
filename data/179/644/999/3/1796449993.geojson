@@ -2,10 +2,12 @@
   "id": 1796449993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-15",
+    "date:cessation_upper": "2022-10-15",
     "date:inception_lower": "2022-10-15",
     "date:inception_upper": "2022-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-15",
+    "edtf:cessation": "2022-10-15T19:20:03Z",
+    "edtf:inception": "2022-10-15T09:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "KL",
     "iata:base_airline": "",
+    "icao:aircraft": "B78X",
     "icao:airline": "KLM",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564289,
     "sfomuseum:airline_id": 1159284613,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221015-A-AFR-8402",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "PHBKG",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "37267383"
+    },
     "wof:country": "US",
     "wof:created": 1665936614,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796449993,
     "wof:involves": [
+      1377564289,
       102527513,
       102542801,
       1159284613,
       1763588405,
       1159283627
     ],
-    "wof:lastmodified": 1665936614,
+    "wof:lastmodified": 1665936725,
     "wof:name": "KL109 (AMS-SFO)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",
