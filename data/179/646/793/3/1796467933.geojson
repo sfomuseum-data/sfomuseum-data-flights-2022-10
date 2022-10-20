@@ -2,10 +2,12 @@
   "id": 1796467933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-19",
+    "date:cessation_upper": "2022-10-19",
     "date:inception_lower": "2022-10-19",
     "date:inception_upper": "2022-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-19",
+    "edtf:cessation": "2022-10-19T10:42:10Z",
+    "edtf:inception": "2022-10-19T09:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-10-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N596NW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "37521222",
+      "swim:gufi": "KL23759400"
+    },
     "wof:country": "US",
     "wof:created": 1666282084,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1796467933,
     "wof:involves": [
+      1159289945,
       102527513,
       102533795,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1666282084,
+    "wof:lastmodified": 1666282316,
     "wof:name": "DL8839 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
