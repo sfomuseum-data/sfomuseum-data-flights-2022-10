@@ -2,10 +2,12 @@
   "id": 1796478595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-21",
+    "date:cessation_upper": "2022-10-21",
     "date:inception_lower": "2022-10-21",
     "date:inception_upper": "2022-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-21",
+    "edtf:cessation": "2022-10-21T21:20:00Z",
+    "edtf:inception": "2022-10-21T20:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614944,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N302DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "37770021"
+    },
     "wof:country": "US",
     "wof:created": 1666454888,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,7 +102,7 @@
       1763588237,
       1159283539
     ],
-    "wof:lastmodified": 1666454888,
+    "wof:lastmodified": 1666455168,
     "wof:name": "DL1203 (LAX-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

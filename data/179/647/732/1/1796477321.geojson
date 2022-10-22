@@ -2,10 +2,12 @@
   "id": 1796477321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-21",
+    "date:cessation_upper": "2022-10-21",
     "date:inception_lower": "2022-10-21",
     "date:inception_upper": "2022-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-21",
+    "edtf:cessation": "2022-10-21T02:18:49-07:00",
+    "edtf:inception": "2022-10-21T10:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221021-A-RAM-5037",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N107NN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "37717007",
+      "swim:gufi": "KN33337601"
+    },
     "wof:country": "US",
     "wof:created": 1666454536,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -90,9 +104,10 @@
       102534365,
       1159283849,
       1763588207,
-      1159285081
+      1159285081,
+      1159289411
     ],
-    "wof:lastmodified": 1666454536,
+    "wof:lastmodified": 1666455166,
     "wof:name": "AA76 (JFK-SFO)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",
