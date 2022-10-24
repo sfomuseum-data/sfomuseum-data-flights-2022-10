@@ -2,10 +2,12 @@
   "id": 1796483537,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-10-23",
-    "date:inception_upper": "2022-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-23",
+    "date:cessation_lower": "2022-10-24",
+    "date:cessation_upper": "2022-10-24",
+    "date:inception_lower": "2022-10-24",
+    "date:inception_upper": "2022-10-24",
+    "edtf:cessation": "2022-10-24T02:23:00Z",
+    "edtf:inception": "2022-10-24T00:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221023-A-VIR-1907",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N3738B",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17162697",
+      "swim:gufi": "KS83461100"
+    },
     "wof:country": "US",
     "wof:created": 1666627705,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -90,9 +103,10 @@
       102533269,
       1159284261,
       1763588239,
-      1159285483
+      1159285483,
+      1159289871
     ],
-    "wof:lastmodified": 1666627705,
+    "wof:lastmodified": 1666627956,
     "wof:name": "DL2943 (SEA-SFO)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",
