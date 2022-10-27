@@ -2,10 +2,12 @@
   "id": 1796504943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-26",
+    "date:cessation_upper": "2022-10-26",
     "date:inception_lower": "2022-10-26",
     "date:inception_upper": "2022-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-26",
+    "edtf:cessation": "2022-10-26T13:48:58Z",
+    "edtf:inception": "2022-10-26T03:10:48Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2022-10-26",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17511730"
+    },
     "wof:country": "US",
     "wof:created": 1666886868,
     "wof:geomhash": "9aa101d6ccf749432541883d092e671a",
@@ -86,7 +91,7 @@
       1159284165,
       1763588463
     ],
-    "wof:lastmodified": 1666886868,
+    "wof:lastmodified": 1666887124,
     "wof:name": "CZ8111 (TYN-SFO)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",
