@@ -2,10 +2,12 @@
   "id": 1796511277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-28",
+    "date:cessation_upper": "2022-10-28",
     "date:inception_lower": "2022-10-28",
     "date:inception_upper": "2022-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-28",
+    "edtf:cessation": "2022-10-28T07:25:20-07:00",
+    "edtf:inception": "2022-10-28T20:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221028-A-AMX-4062",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N352NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17650720",
+      "swim:gufi": "KL62872600"
+    },
     "wof:country": "US",
     "wof:created": 1667059701,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -90,9 +103,10 @@
       102533795,
       1159284261,
       1763588255,
-      1159283539
+      1159283539,
+      1159289407
     ],
-    "wof:lastmodified": 1667059701,
+    "wof:lastmodified": 1667059949,
     "wof:name": "DL2522 (LAX-SFO)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
