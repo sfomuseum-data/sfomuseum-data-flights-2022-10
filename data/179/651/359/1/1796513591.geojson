@@ -2,10 +2,12 @@
   "id": 1796513591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-29",
+    "date:cessation_upper": "2022-10-29",
     "date:inception_lower": "2022-10-29",
     "date:inception_upper": "2022-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-29",
+    "edtf:cessation": "2022-10-29T13:42:59Z",
+    "edtf:inception": "2022-10-29T03:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2022-10-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.6824445,
     "geom:longitude": -4.871472499999996,
     "iata:airline": "CZ",
+    "icao:aircraft": "B789",
     "icao:airline": "CSN",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284165,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102550423,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17770181"
+    },
     "wof:country": "US",
     "wof:created": 1667146094,
     "wof:geomhash": "9aa101d6ccf749432541883d092e671a",
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1796513591,
     "wof:involves": [
+      1159293215,
       102527513,
       102550423,
       1159284165,
       1763588451
     ],
-    "wof:lastmodified": 1667146094,
+    "wof:lastmodified": 1667146334,
     "wof:name": "CZ8111 (TYN-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

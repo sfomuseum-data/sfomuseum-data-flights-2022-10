@@ -2,10 +2,12 @@
   "id": 1796513205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-29",
+    "date:cessation_upper": "2022-10-29",
     "date:inception_lower": "2022-10-29",
     "date:inception_upper": "2022-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-29",
+    "edtf:cessation": "2022-10-29T22:59:00Z",
+    "edtf:inception": "2022-10-29T17:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221029-A-QFA-3655",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N923VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17739997"
+    },
     "wof:country": "US",
     "wof:created": 1667145992,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1796513205,
     "wof:involves": [
+      1159285043,
+      1377564297,
       102527513,
       102534365,
       1159283813,
-      1763588135,
-      1159285043
+      1763588135
     ],
-    "wof:lastmodified": 1667145992,
+    "wof:lastmodified": 1667146333,
     "wof:name": "AS14 (JFK-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",
