@@ -2,10 +2,12 @@
   "id": 1796520557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-10-31",
+    "date:cessation_upper": "2022-10-31",
     "date:inception_lower": "2022-10-30",
     "date:inception_upper": "2022-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-30",
+    "edtf:cessation": "2022-10-31T06:08:00Z",
+    "edtf:inception": "2022-10-30T17:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-10-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2140U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17821581",
+      "swim:gufi": "KO53591100"
+    },
     "wof:country": "US",
     "wof:created": 1667233717,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1796520557,
     "wof:involves": [
+      1159289993,
       102556451,
       102527513,
       1159285413,
       1763588463
     ],
-    "wof:lastmodified": 1667233717,
+    "wof:lastmodified": 1667233822,
     "wof:name": "UA857 (SFO-ICN)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",
