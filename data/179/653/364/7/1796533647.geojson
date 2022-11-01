@@ -2,10 +2,12 @@
   "id": 1796533647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-11-01",
+    "date:cessation_upper": "2022-11-01",
     "date:inception_lower": "2022-10-31",
     "date:inception_upper": "2022-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-10-31",
+    "edtf:cessation": "2022-11-01T00:14:40Z",
+    "edtf:inception": "2022-10-31T23:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20221031-D-AVA-2011",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N25201",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "17929726",
+      "swim:gufi": "KO75337200"
+    },
     "wof:country": "US",
     "wof:created": 1667319898,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -90,9 +102,10 @@
       102527513,
       1159285413,
       1763588285,
-      1159285749
+      1159285749,
+      1159289871
     ],
-    "wof:lastmodified": 1667319898,
+    "wof:lastmodified": 1667320102,
     "wof:name": "UA1657 (SFO-LAX)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
