@@ -54,6 +54,7 @@
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
+        "custom_id": 1796418185,
         "flight_id": 1796418185
       }
     ],
@@ -64,11 +65,13 @@
       102534365,
       1159283849
     ],
-    "wof:lastmodified": 1665159175,
+    "wof:lastmodified": 1717041592,
     "wof:name": "AA177 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

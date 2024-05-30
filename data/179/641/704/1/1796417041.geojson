@@ -51,6 +51,7 @@
     "wof:geomhash": "107e6589f8c1d0883959ee6339b5af3a",
     "wof:hierarchy": [
       {
+        "custom_id": 1796417041,
         "flight_id": 1796417041
       }
     ],
@@ -61,11 +62,13 @@
       102528591,
       1159285227
     ],
-    "wof:lastmodified": 1665072704,
+    "wof:lastmodified": 1717041592,
     "wof:name": "SY3041 (AFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

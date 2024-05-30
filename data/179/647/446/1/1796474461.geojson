@@ -40,6 +40,7 @@
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
     "wof:hierarchy": [
       {
+        "custom_id": 1796474461,
         "flight_id": 1796474461
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1666368520,
+    "wof:lastmodified": 1717041590,
     "wof:name": "DL399 (ACV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

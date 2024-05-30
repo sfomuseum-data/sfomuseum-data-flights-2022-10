@@ -48,6 +48,7 @@
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
     "wof:hierarchy": [
       {
+        "custom_id": 1796528307,
         "flight_id": 1796528307
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102556451
     ],
-    "wof:lastmodified": 1667320083,
+    "wof:lastmodified": 1717041593,
     "wof:name": "OZ284 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -52,6 +52,7 @@
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1796436019,
         "flight_id": 1796436019
       }
     ],
@@ -62,11 +63,13 @@
       102533575,
       1159284261
     ],
-    "wof:lastmodified": 1665591140,
+    "wof:lastmodified": 1717041593,
     "wof:name": "DL8841 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -51,6 +51,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1796505037,
         "flight_id": 1796505037
       }
     ],
@@ -61,11 +62,13 @@
       102532251,
       1159284261
     ],
-    "wof:lastmodified": 1666887125,
+    "wof:lastmodified": 1717041591,
     "wof:name": "DL8931 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

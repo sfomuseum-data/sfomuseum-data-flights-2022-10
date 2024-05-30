@@ -45,6 +45,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1796404357,
         "flight_id": 1796404357
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284211
     ],
-    "wof:lastmodified": 1664813065,
+    "wof:lastmodified": 1717041589,
     "wof:name": "NH7305 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-10",
     "wof:superseded_by": [],
     "wof:supersedes": []
